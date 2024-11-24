@@ -1,3 +1,3 @@
 ---
-title: La Gazette du Calamar
+title: Bienvenue sur la Gazette du Calamar !
 ---
